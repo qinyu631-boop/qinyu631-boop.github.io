@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu's academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
