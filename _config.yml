@@ -24,7 +24,7 @@ repository               : "qinyu631-boop/qinyu631-boop.github.io"
 author:
   # Biographic information
 author:
-  avatar           : "profile.png"           # 把头像文件放到 /images/ 目录
+  avatar           : "profile.jpg"           # 把头像文件放到 /images/ 目录
   name             : "Yu Qin (秦宇)"
   pronouns         : "he/him"
   bio              : "PhD in Economics, University of Southampton. Environmental & Labour Economics; Migration, Pollution, Health."
