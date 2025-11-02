@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Teaching"
-permalink: /teaching/
+permalink: /teachingstate/
 author_profile: true
 ---
 
