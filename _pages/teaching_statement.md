@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Teaching"
 permalink: /teachingstate/
 author_profile: true
