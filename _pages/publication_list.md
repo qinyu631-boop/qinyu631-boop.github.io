@@ -1,9 +1,10 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publicationlist/
 author_profile: true
 ---
+
 
 ## Publications & Working Papers
 
