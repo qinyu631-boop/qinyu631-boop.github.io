@@ -9,56 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Full CV (by request):**  
+[Request access via email](mailto:Y.Qin@soton.ac.uk?subject=Request%20for%20Full%20CV&body=Hi%20Yu%2C%20may%20I%20request%20your%20full%20CV%3F)  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+- **PhD in Economics**, University of Southampton, UK  
+- **MSc in Economics**, University of Queensland, Australia  
+- **BEng in Energy Science and Power Engineering**, Central South University, China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests
+- Environmental economics  
+- Labour economics (migration and labour mobility)  
+- Pollution and health  
+- Applied microeconometrics  
+- Development economics and inequality  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
+- **Research Assistant**, University of Southampton  
+- **Research Assistant**, University of Queensland  
+- **Visiting Research**, Chinese Academy of Sciences  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching Experience
+
+- **MSc Dissertation Supervision**,  
+  University of Southampton — Supervisor / Teaching Assistant, 2024–2025
+
+- **Introduction to Econometrics**,   
+  University of Southampton — Teaching Assistant, Fall 2024
+
+- **Economics with Data**,   
+  University of Southampton — Teaching Assistant, Spring 2024
+
+- **Foundations of Microeconomics**,   
+  University of Southampton — Teaching Assistant, 2023–2024
+
+- **Applied Econometrics**,   
+  University of Southampton — Teaching Assistant, Spring 2023
+
+- **Industrial Economics**,   
+  University of Southampton — Teaching Assistant, Spring 2023
+
+- **Undergraduate & MSc Dissertation Drop-in Sessions**  
+  University of Southampton — Supervisor / Support Teaching, 2022–2023
+
+- **21st Century Crises: International Politics**,   
+  University of Southampton — Teaching Assistant, Fall 2022
+
+- **Introduction to International Relations**,   
+  University of Southampton — Teaching Assistant, Spring 2022
+
+- **British Politics: Myth and Reality**,   
+  University of Southampton — Teaching Assistant, Fall 2021
+
+## Skills
+- Econometrics: causal inference with panel data & time series
+- Software: Stata, R, Python 
+- Data: large-scale micro data, administrative data, satellite data
+- Languages: English, Chinese
+
+## Service
+- Reviewer support, student tutoring and dissertation assistance  
+- Organising/supporting academic seminars  
+- Experience working with interdisciplinary teams across economics, environment and data science
