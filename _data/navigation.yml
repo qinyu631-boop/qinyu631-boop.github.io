@@ -14,10 +14,10 @@ main:
     url: /cv/
     
   - title: "Publications"
-    url: /publication_list/
+    url: /publicationlist/
 
   - title: "Teaching"
-    url: /teaching_statement/    
+    url: /teachingstate/    
     
   # - title: "CV"
   #   url: /cv-json/
