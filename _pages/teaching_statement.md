@@ -21,8 +21,3 @@ I believe that effective learning happens when students feel supported and motiv
 - **Undergraduate & MSc Dissertation Drop-in Sessions** — Supervisor/Support, 2022–2023  
 - **British Politics: Myth & Reality (PAIR1011)** — TA, Fall 2021  
 - **Introduction to International Relations (PAIR1001)** — TA, Spring 2022  
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
