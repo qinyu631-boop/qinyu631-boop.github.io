@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "air"   # 学术风格更清晰；如不喜欢可改回 default
-title                    : "Yu Qin | Environmental & Labour Economics"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yu Qin (秦宇)"
 description              : &description "Environmental & Labour Economics | Migration, Pollution, Health | University of Southampton"
