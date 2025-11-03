@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Full CV (by request):**  
-[Request access via email](mailto:Y.Qin@soton.ac.uk?subject=Request%20for%20Full%20CV&body=Hi%20Yu%2C%20may%20I%20request%20your%20full%20CV%3F)  
+**Full CV (PDF):** 
+[Click here]({{ base_path }}/files/CV_Yu_Qin.pdf)
 
 ## Education
 - **PhD in Economics**, University of Southampton, UK  
