@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Full CV (PDF):** 
+**Full CV:** 
 [Click here]({{ base_path }}/files/CV_Yu_Qin.pdf)
 
 ## Education
