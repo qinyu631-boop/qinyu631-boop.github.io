@@ -19,10 +19,10 @@ redirect_from:
 
 ## Research Interests
 - Environmental economics  
-- Labour economics (migration and labour mobility)  
-- Pollution and health  
+- Labour economics (domestic and international migration )
+- Health economics
 - Applied microeconometrics  
-- Development economics and inequality  
+- Development economics  
 
 ## Work Experience
 - **Research Assistant**, University of Southampton  
