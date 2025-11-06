@@ -14,11 +14,11 @@ My research combines longitudinal microdata, satellite-based measures of air pol
 ---
 
 ### **Research Fields**
-- **Environmental Economics** — climate change, air pollution, environmental exposure  
-- **Labour Economics** — migration, human capital, labour supply  
+- **Environmental Economics** — climate change, pollution exposure  
+- **Labour Economics** — migration, education
 - **Health Economics** — environmental health & wellbeing, non-communicable diseases (non-clinical focus)  
-- **Development & Regional Economics** — urbanisation, inequality, sustainable development  
-
+- **Development & Regional Economics** — urbanisation, inequality, sustainable development
+  
 ---
 
 I also have teaching experience in econometrics, applied microeconomics, and introductory economics at both undergraduate and postgraduate levels.
