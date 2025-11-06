@@ -7,10 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yu Qin (秦宇)**, a PhD in Economics at the University of Southampton, supervised by **Professor Corrado Giulietti** and **Professor Jackie Wahba**. I work in applied microeconomics, with a focus on how environmental and social factors shape economic behaviour and wellbeing. My research spans environmental economics, labour economics, migration, and health, and I am particularly interested in how individuals and households respond to environmental and economic shocks.
+I am **Yu Qin (秦宇)**, a PhD in Economics at the University of Southampton, supervised by **Professor Corrado Giulietti** and **Professor Jackie Wahba**. I am an applied microeconomist working at the intersection of environmental, labour, and health economics, with a particular focus on how individuals and households respond to environmental and economic shocks.
 
-Methodologically, my work combines large-scale microdata, satellite-based environmental measures, and econometric approaches using panel data and time-series variation. Much of my research focuses on developing economies—including China and the broader Global South—where questions of urban–rural transformation, poverty reduction, and sustainable development remain central. I am especially interested in the links between climate risks, inequality, and the resilience of individuals, communities, and firms facing environmental change.
+My research combines longitudinal microdata, satellite-based measures of air pollution and climate exposure, and econometric identification strategies using panel and time-series variation. Substantively, I study how pollution and climate risks affect labour market behaviour, human capital accumulation, migration decisions, and wellbeing. Much of my work focuses on China and the broader Global South, where issues of urban–rural transformation, inequality, and sustainable development are particularly salient.
 
-I also have experience teaching econometrics, applied microeconomics, and introductory economics at both undergraduate and postgraduate levels.
+---
 
-If you would like to get in touch, please feel free to email me at **Y.Qin@soton.ac.uk**.
+### **Research Fields**
+- **Environmental Economics** — climate change, air pollution, environmental exposure  
+- **Labour Economics** — migration, human capital, labour supply  
+- **Health Economics** — environmental health & wellbeing, non-communicable diseases (non-clinical focus)  
+- **Development & Regional Economics** — urbanisation, inequality, sustainable development  
+
+---
+
+I also have teaching experience in econometrics, applied microeconomics, and introductory economics at both undergraduate and postgraduate levels.
+
+If you would like to get in touch, please email me at **Y.Qin@soton.ac.uk**.
