@@ -10,7 +10,7 @@ author_profile: true
 
 My research focuses on applied microeconomics, with interests in environmental and labour economics, migration, and the links between pollution, health, and socioeconomic outcomes. I use large-scale microdata, spatially matched environmental indicators, and causal inference techniques.
 
-I currently have **five working papers** in progress. Titles and brief summaries are below.
+I currently have **five papers & Manuscripts** in progress. Titles and brief summaries are below.
 
 ---
 
@@ -22,14 +22,14 @@ This paper examines how air pollution affects forward-looking labour supply deci
 ---
 
 ### Green Remittances: How Migration Shapes Green Behaviours in Rural China  
-*Working Paper*  
+*Manuscript in preparation*  
 
 This paper studies how migration influences environmental behaviour within households. Current migration may weaken daily green practices due to household separation, while return migration improves recycling and waste sorting through the transmission of norms acquired in urban areas. Social capital and green infrastructure amplify these effects.
 
 ---
 
 ### The Role of Air Pollution in Migration Decisions: Evidence from China  
-*Working Paper*  
+*Manuscript in preparation*  
 
 Using bidirectional urban migration flows and plausibly exogenous variation in pollution, this study shows that households respond to environmental risks when choosing destinations. Cleaner cities attract more migrants, particularly where social services and environmental regulation are stronger, indicating that environmental quality is an emerging driver of internal migration in developing economies.
 
