@@ -10,7 +10,7 @@ author_profile: true
 
 My research focuses on applied microeconomics, with interests in environmental and labour economics, migration, and the links between pollution, health, and socioeconomic outcomes. I use large-scale microdata, spatially matched environmental indicators, and causal inference techniques.
 
-I currently have **five papers & Manuscripts** in progress. Titles and brief summaries are below.
+I currently have **Five Papers & Manuscripts** in progress. Titles and brief summaries are below.
 
 ---
 
