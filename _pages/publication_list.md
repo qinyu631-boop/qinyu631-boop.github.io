@@ -14,7 +14,7 @@ I currently have **Five Papers & Manuscripts** in progress. Titles and brief sum
 
 ---
 ### Host Country Language and School Integration of Immigrant Students  
-*With Jackie Wahba and Michael Vlassopoulos — RF Berlin Discussion Paper*  
+*With Michael Vlassopoulos and Jackie Wahba — RF Berlin Discussion Paper*  
 
 Language proficiency is a key determinant of immigrant integration. This paper examines the causal impact of host-country language proficiency (proxied by reading test scores) on school integration and bullying among first-generation immigrant students across 16 OECD destination countries, using data from the 2015, 2018, and 2022 waves of the Programme for International Student Assessment (PISA). We employ an instrumental variable strategy exploiting exogenous variation in exposure to the host-country language, measured through the interaction of immigrants' age at arrival and the linguistic distance between their mother tongue and the host-country language. We find that a one-standard-deviation increase in reading proficiency raises a standardized index of school integration by about 0.56 standard deviations, and reduces a standardized bullying index by about 0.59 standard deviations. The protective effect against bullying is stronger for boys, whereas integration gains are more similar across genders. We also find positive effects on academic achievement and grade progression, and links to more ambitious expectations, better teacher relations, and a stronger non-cognitive profile that plausibly explains the integration effects. These results suggest the importance of language proficiency as an input into the joint production of cognitive and psychosocial outcomes for immigrant youth.
 
