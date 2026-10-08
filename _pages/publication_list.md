@@ -10,7 +10,7 @@ author_profile: true
 ### Host Country Language and School Integration of Immigrant Students
 
 *With Michael Vlassopoulos and Jackline Wahba*  
-Working Paper
+**R&R — Journal of Population Economics**
 
 ### Breathing Easy, Retiring Early? Effects of Air Pollution on Retirement Age Expectations: Evidence from China
 
@@ -54,9 +54,13 @@ Working Paper
 *With Michael Vlassopoulos and Jackline Wahba.*
 Policy Brief, ESRC Centre for Population Change Connecting Generations, UKRI, 2026.
 
+[Read the policy brief — University of Southampton](https://eprints.soton.ac.uk/510974/)
+
 ### Integration Starts with Language: Immigrant Children across OECD Countries
 
 *With Michael Vlassopoulos and Jackline Wahba.*
 Policy Insights, Population Europe, 2026.
+
+[Read the article — Population Europe](https://www.population-europe.eu/research/policy-insights/integration-starts-language-immigrant-children-across-oecd-countries)
 
 For drafts and working paper versions, please email [Yu.Qin1@nottingham.ac.uk](mailto:Yu.Qin1@nottingham.ac.uk).
