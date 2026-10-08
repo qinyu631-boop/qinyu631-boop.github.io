@@ -1,42 +1,8 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-My research focuses on applied microeconomics, particularly environmental and labour economics, migration, and the links between pollution, health, and socioeconomic outcomes. I combine large-scale survey microdata with satellite-based environmental indicators and causal inference methods such as fixed effects and instrumental variables.
-
-I currently have **five working papers** in progress.  
-A full list of working papers or draft manuscripts is available upon request.  
-If you are interested, please feel free to contact me at **Y.Qin@soton.ac.uk**.
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+See my [research papers and policy briefs]({{ site.baseurl }}/publicationlist/) for current titles, coauthors, summaries, and submission statuses.

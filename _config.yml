@@ -12,7 +12,7 @@ site_theme               : "air"   # 学术风格更清晰；如不喜欢可改�
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yu Qin (秦宇)"
-description              : &description "Environmental & Labour Economics | Migration, Pollution, Health | University of Southampton"
+description              : &description "Environmental & Labour Economics | Migration | University of Nottingham"
 url                      : "https://qinyu631-boop.github.io"
 baseurl                  : ""
 repository               : "qinyu631-boop/qinyu631-boop.github.io"
@@ -23,15 +23,14 @@ repository               : "qinyu631-boop/qinyu631-boop.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-author:
   avatar           : "headshot.png"           # 把头像文件放到 /images/ 目录
   name             : "Yu Qin (秦宇)"
   pronouns         : "he/him"
-  bio              : "PhD in Economics, University of Southampton. Environmental & Labour Economics; Migration, Pollution, Health."
-  location         : "Southampton, UK "
-  employer         : "University of Southampton"
-  uri              : "https://www.southampton.ac.uk/people/5yprnt/mr-yu-qin"
-  email            : "Y.Qin@soton.ac.uk"
+  bio              : "Research Fellow, University of Nottingham. PhD in Economics; Environmental & Labour Economics; Migration."
+  location         : "Nottingham, UK"
+  employer         : "University of Nottingham"
+  uri              :
+  email            : "Yu.Qin1@nottingham.ac.uk"
 
   # Academic websites
   googlescholar    :
