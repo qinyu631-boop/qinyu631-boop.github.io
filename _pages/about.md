@@ -7,19 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yu Qin (秦宇)**, a **Research Fellow at the University of Nottingham**.
-
-I completed my **PhD in Economics at the University of Southampton (2021–2026)**, supervised by **Professor Corrado Giulietti** and **Professor Jackie Wahba**. My research interests are environmental economics, labour economics, migration economics, and applied microeconomics.
-
-My research examines how environmental risks shape retirement expectations, mobility and migration, household behaviour, and firms’ recruitment decisions. I also study the role of language proficiency in immigrant students’ school integration and use of generative AI. My work combines survey microdata, satellite-derived environmental measures, spatial data, and causal inference methods.
-
-### Research Fields
-
-- Environmental Economics
-- Labour Economics
-- Migration Economics
-- Applied Microeconomics
-
-I have teaching experience in econometrics, microeconomics, and undergraduate and postgraduate dissertation support at the University of Southampton.
+I am **Yu Qin (秦宇)**, a **Research Fellow at the University of Nottingham**, with a PhD in Economics from the University of Southampton. My research focuses on **environmental economics, labour economics, and migration**.
 
 Please contact me at [Yu.Qin1@nottingham.ac.uk](mailto:Yu.Qin1@nottingham.ac.uk).
