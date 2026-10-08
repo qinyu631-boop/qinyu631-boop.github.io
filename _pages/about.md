@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yu Qin (秦宇)**, a **Research Fellow at Nottingham University Business School, University of Nottingham**. I work on the ERC Advanced Grant project **Chinese Development (China 4E)**, led by **Professor Peter Ho**, conducting institutional analysis and fieldwork on rural–urban transition in China.
+I am **Yu Qin (秦宇)**, a **Research Fellow at the University of Nottingham**.
 
 I completed my **PhD in Economics at the University of Southampton (2021–2026)**, supervised by **Professor Corrado Giulietti** and **Professor Jackie Wahba**. My research interests are environmental economics, labour economics, migration economics, and applied microeconomics.
 

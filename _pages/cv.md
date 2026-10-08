@@ -14,8 +14,7 @@ redirect_from:
 
 ## Academic Appointment
 
-- **Research Fellow**, Nottingham University Business School, University of Nottingham, UK — 2026–present
-  ERC Advanced Grant project: **Chinese Development (China 4E)**. Principal Investigator: **Professor Peter Ho**. Institutional analysis and fieldwork on rural–urban transition in China.
+- **Research Fellow**, University of Nottingham, UK — 2026–present
 
 ## Education
 
@@ -89,4 +88,4 @@ Environmental Economics · Labour Economics · Migration Economics · Applied Mi
 
 ## Research Papers
 
-See my [research papers and policy briefs]({{ base_path }}/publicationlist/) for current titles, coauthors, and submission statuses.
+See my [research papers and policy briefs]({{ base_path }}/publicationlist/) for paper titles and coauthors.
